@@ -1,6 +1,6 @@
 # Nguyễn Hiếu
 My Profile
-<h2 align="left">Hi 👋! My name is Nguyễn Tạ Trung Hiếu, I'm an Ưeb developer from Vietnam</h2>
+<h2 align="left">Hi 👋! My name is Nguyễn Tạ Trung Hiếu, I'm an Web developer from Vietnam</h2>
 
 ###
 
