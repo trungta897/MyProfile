@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://facebook.com/ng.hieu.897" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fb" height="30" width="40" />
+  <a href="https://www.facebook.com/ng.hieu.897/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://discordapp.com/users/607929946429456395" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -34,6 +34,6 @@
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trungta897&show_icons=true&locale=en" alt="trungta897" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trungta897&" alt="trungta897" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trungta897&show_icons=true&locale=en" alt="trungta897"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trungta897&" alt="trungta897"/>
 </div>
