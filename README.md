@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trung Tạ</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Tạ Trung Hiếu</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 
 <p align="center">
@@ -7,18 +7,22 @@
 
 - 🔭 I’m currently working on **a web-based eCommerce project**
 
-- 🌱 I’m currently learning **ReactJS, Laravel, and MySQL**
+- 🌱 I’m currently learning **ReactJs, Laravel, and MySQL**
 
-- 👨‍💻 All of my projects are available at [https://trungta897.github.io](https://trungta897.github.io)
+- 👨‍💻 All of my projects are available at [trungta897](https://github.trungta897)
 
-- 📫 How to reach me: **trungta897@gmail.com**
+- 📫 How to reach me: **nguyentatrunghieu2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://facebook.com/trungta897" target="blank">
+  <a href="https://facebook.com/ng.hieu.897" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fb" height="30" width="40" />
   </a>
+  <a href="https://discordapp.com/users/607929946429456395" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -35,7 +39,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trungta897&show_icons=true&locale=en" alt="trungta897" />
-</p>
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trungta897&" alt="trungta897" />
 </p>
