@@ -9,7 +9,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="26995477" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/herscher-of-sentience-ho-s-chicken-fu-hua-senti-gif-26995477">Herscher Of Sentience Ho S Sticker</a>from <a href="https://tenor.com/search/herscher+of+sentience-stickers">Herscher Of Sentience Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="160" src="https://tenor.com/vi/view/herscher-of-sentience-ho-s-chicken-fu-hua-senti-gif-26995477"  />
 
 ###
 
