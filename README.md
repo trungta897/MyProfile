@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Tạ Trung Hiếu</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trungta897&label=Profile%20views&color=0e75b6&style=flat" alt="trungta897" />
-</p>
-
 - 🔭 I’m currently working on **a web-based eCommerce project**
 
 - 🌱 I’m currently learning **ReactJs, Laravel, and MySQL**
