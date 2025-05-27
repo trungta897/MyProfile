@@ -41,7 +41,7 @@ My Profile
   <a href="https://www.facebook.com/ng.hieu.897" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://discordapp.com/users/754348942082179162" target="_blank">
+  <a href="https://discordapp.com/users/607929946429456395" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:nguyentatrunghieu2@gmail.com" target="_blank">
