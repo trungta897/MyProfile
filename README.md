@@ -17,6 +17,10 @@
   <a href="https://discordapp.com/users/607929946429456395" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/hi%E1%BA%BFu-nguy%E1%BB%85n-642a4a306/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+
 </p>
 
 
